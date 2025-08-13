@@ -1,0 +1,6 @@
+transformers
+datasets
+scikit-learn
+spacy
+nltk
+streamlit
